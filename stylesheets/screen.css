@@ -112,6 +112,10 @@ header, footer, section {
 
 /* STYLES */
 
+.hidden{
+    display: none;
+}
+
 div.shell {
   display: block;
   width: 670px;
